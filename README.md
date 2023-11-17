@@ -9,3 +9,4 @@ The dataset has attributes that are related to death event of a human due to hea
 
 IN SUMMARY:
 I have made a datascience project which involves EDA, model building, making a flask app, dockerising it and then at last deploying that globally for client(dummy).
+(ps: Deployement globally has been put on hold, as there are some payment issues due to my aws free tier expiration. Apart from that, the website runs perfectly in detach mode on local host.)
